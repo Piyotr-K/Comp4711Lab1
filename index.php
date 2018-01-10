@@ -1,7 +1,7 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: Lel
+ * Index page
+ * User: Piyotr Kao
  * Date: 2018-01-10
  * Time: 11:01 AM
  */
