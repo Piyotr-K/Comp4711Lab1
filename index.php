@@ -29,6 +29,15 @@ $second->add_grade(95);
 $second->add_grade(80);
 $second->add_grade(50);
 $students['a456'] = $second;
+
+$third = new Student();
+$third->surname = "Kao";
+$third->first_name = "Piyotr";
+$third->add_email('work','piyotrkao1998@outlook.com');
+$third->add_grade(80);
+$third->add_grade(60);
+$third->add_grade(90);
+$students['b789'] = $third;
 ?>
 <html>
 <head>
